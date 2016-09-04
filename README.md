@@ -1,3 +1,4 @@
 # exercise-1
 
-hi my name is silvy
+Hi my name is Silvy van Kuijk.
+I'm taking an Applied Data Analysis class.
